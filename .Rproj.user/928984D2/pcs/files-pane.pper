@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/CITES_wildlife",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

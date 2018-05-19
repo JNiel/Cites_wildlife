@@ -1,0 +1,16 @@
+]0;~/Desktop/CITES_wildlife[?1034hjons-air:CITES_wildlife jonnielsen$ [Kjons-air:CITES_wildlife jonnielsen$ git init
+Initialized empty Git repository in /Users/jonnielsen/Desktop/CITES_wildlife/.git/
+]0;~/Desktop/CITES_wildlifejons-air:CITES_wildlife jonnielsen$ git add [K[K[K[K[K commint[K[Kt "[K[Km[K - [Km "first commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m.Rhistory[m
+	[31m.Rproj.user/[m
+	[31mCITES_wildlife.Rproj[m
+	[31mcomptab_2018-01-29 16_00_comma_separated.csv[m
+	[31mwildlife_data.Rmd[m
+
+nothing added to commit but untracked files present
+]0;~/Desktop/CITES_wildlifejons-air:CITES_wildlife jonnielsen$ git add --all

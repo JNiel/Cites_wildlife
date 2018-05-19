@@ -1,0 +1,11 @@
+---
+title: "wildlife data"
+author: "Jon Nielsen"
+date: "12/05/2018"
+output: html_document
+---
+
+```{r}
+raw_data <- read_csv("comptab_2018-01-29 16_00_comma_separated.csv")
+```
+

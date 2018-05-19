@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1526129768744.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B3D2A5E4",
+    "lastKnownWriteTime" : 1526129904,
+    "last_content_update" : 1526129904733,
+    "path" : "~/Desktop/CITES_wildlife/wildlife_data.Rmd",
+    "project_path" : "wildlife_data.Rmd",
+    "properties" : {
+        "cursorPosition" : "8,68",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
